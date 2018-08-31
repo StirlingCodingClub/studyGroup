@@ -1,6 +1,29 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Brad Duthie
+  affiliation: University of Stirling
+  github: bradduthie
+  interests:
+    - Ecological Modelling
+    - Progamming (R and C)
+    - Theoretical Biology
+
+- name: Anna Deasey
+  affiliation: University of Stirling
+  github: anna-deasey
   interests:
     - Programming
-    - Open Science
+    - Forest Community Ecology
+
+- name: Nina Friggens
+  affiliation: University of Stirling
+  github: NinaFriggens
+  interests:
+    - Programming
+
+- name: Matt Nuttall
+  affiliation: University of Stirling
+  github: mattnuttall00
+  interests:
+    - Systematic Conservation Planning
+    - Social-Ecological Systems
+    - Biodiversity Monitoring
+    - Programming
