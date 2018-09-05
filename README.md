@@ -1,3 +1,8 @@
+### EDIT STIRLING CODING CLUB README HERE
+### Add and delete as you think appropriate
+### Once you've made a contribution, propose the file changes at the bottom of the page
+
+
 ### [इसे हिंदी में पढ़ें](https://github.com/mozillascience/studyGroup/blob/gh-pages/README-hi.md)
 
 ### [Leia isto em Português](https://github.com/mozillascience/studyGroup/blob/gh-pages/README-pt.md)
