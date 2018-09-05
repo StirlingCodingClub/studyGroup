@@ -1,4 +1,4 @@
-###[Leia isto em Português](https://github.com/mozillascience/studyGroup/blob/gh-pages/codeOfConduct-pt.md)
+### Stirling Coding Club CoC
 
 # Code of Conduct
 
