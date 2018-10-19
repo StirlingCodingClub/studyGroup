@@ -1,5 +1,5 @@
 ---
-date: 2018-17-03
+date: 2018-10-17
 title: Data management and tidyverse
 text: Data management flows and Tidyverse
 location: Room 4U5, Cottrell Buildling, University of Stirling
