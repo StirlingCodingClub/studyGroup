@@ -84,8 +84,8 @@ h1, h2, h3, h4, h5, h6, h7, h8, p {
 
 <div class="columns-2">
 
-- Fortnightly meetings on specific topics (WED at noon)
-- Fortnightly open meetings for help and discussion (WED at noon)
+- Fortnightly [meetings](https://stirlingcodingclub.github.io/studyGroup/) on specific topics (WED at noon)
+- Fortnightly open [meetings](https://stirlingcodingclub.github.io/studyGroup/) for help and discussion (WED at noon)
 - Online help and sharing using [GitHub](https://github.com/StirlingCodingClub) discussion issues
 
 <p class="forceBreak"></p>
