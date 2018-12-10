@@ -1,0 +1,102 @@
+---
+title: "Stirling Coding Club (SCC)"
+subtitle: https://stirlingcodingclub.github.io/studyGroup/SCC.html
+output:
+  ioslides_presentation:
+    logo: img/SCC_Logo_slide_sm.png
+    widescreen: yes
+---
+
+<style type="text/css">
+body p {
+  color: #000000;
+}
+ul {
+  color: black;
+}
+ol {
+  color: black;
+}
+a {
+    color: darkblue;
+    text-decoration: none
+}
+.fifty {
+   font-size: 50%;
+   }
+.seventy {
+   font-size: 70%;
+   }
+slides > slide.backdrop {
+  background: none !important;
+  background-color: white !important;
+}
+slides > slide.title-slide hgroup h1 {
+  color: black;
+}
+slides > slide.title-slide p {
+  color: black;
+}
+slides > slide.light > hgroup h2 {
+  color: black;
+}
+slides > slide.light > hgroup h1 {
+  color: black;
+}
+ul {
+  color: black;
+}
+ol {
+  color: black;
+}
+p {
+  color: black
+}
+h1, h2, h3, h4, h5, h6, h7, h8, p {
+    color: black;
+}
+.checkbox-inline, .radio-inline {
+    margin-right: 90px;
+}
+.forceBreak { -webkit-column-break-after: always; break-after: column; }
+</style>
+
+## What is Stirling Coding Club (SCC)?
+
+<br>
+
+<div class="columns-2">
+
+- Part continuation of semina[r] series
+- Informal club to share skills & ideas in coding, statistics, mathematics, and workflow
+- Friendly learning and teaching 
+- **Everyone is welcome**
+
+<p class="forceBreak"></p>
+
+![](img/SCC_Logo_slide_sm.png)
+
+</div>
+
+## Face-to-face and online meetings
+
+<br> 
+
+<div class="columns-2">
+
+- Fortnightly meetings on specific topics (WED at noon)
+- Fortnightly open meetings for help and discussion (WED at noon)
+- Online help and sharing using [GitHub](https://github.com/StirlingCodingClub) discussion issues
+
+<p class="forceBreak"></p>
+
+![](img/SCC_Logo_slide_sm.png)
+
+</div>
+
+
+**Email to join on GitHub** (free to sign up):
+
+- Brad Duthie: **< alexander.duthie@stir.ac.uk >** 
+- Anna Deasey: **< a.l.deasey@stir.ac.uk >**
+
