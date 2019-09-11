@@ -6,7 +6,7 @@ Hello! Welcome people to the Stirling Coding Club.
 
 ## Sign up for email reminders
 
-Stay up to date with everything we have planned: [Subscribe to our newsletter here](http://eepurl.com/gCYZGP)
+Stay up to date with everything we have planned: [Subscribe to our newsletter here](http://eepurl.com/gCYZGP).
 
 ## What we're about
 
