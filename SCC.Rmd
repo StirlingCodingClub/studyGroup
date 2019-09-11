@@ -63,14 +63,15 @@ h1, h2, h3, h4, h5, h6, h7, h8, p {
 
 ## What is Stirling Coding Club (SCC)?
 
-<br>
-
 <div class="columns-2">
 
-- Part continuation of semina[r] series
-- Informal club to share skills & ideas in coding, statistics, mathematics, and workflow
+- Informal club to share skills
+    - coding 
+    - statistics
+    - workflow
 - Friendly learning and teaching 
 - **Everyone is welcome**
+- What we do is up to you
 
 <p class="forceBreak"></p>
 
@@ -78,15 +79,16 @@ h1, h2, h3, h4, h5, h6, h7, h8, p {
 
 </div>
 
-## Face-to-face and online meetings
+## GitHub as a platform for interaction
 
-<br> 
 
 <div class="columns-2">
 
-- Fortnightly [meetings](https://stirlingcodingclub.github.io/studyGroup/) on specific topics (WED at noon)
-- Fortnightly open [meetings](https://stirlingcodingclub.github.io/studyGroup/) for help and discussion (WED at noon)
-- Online help and sharing using [GitHub](https://github.com/StirlingCodingClub) discussion issues
+- [GitHub](https://github.com) is free to [join](https://github.com/join)
+- GitHub hosts the SCC [Website](https://stirlingcodingclub.github.io/studyGroup/)
+- Repositories hold [past code](https://github.com/StirlingCodingClub)
+- [studyGroup](https://github.com/StirlingCodingClub/studyGroup) holds website
+- [Issues](https://github.com/StirlingCodingClub/studyGroup/issues) used for questions
 
 <p class="forceBreak"></p>
 
@@ -94,9 +96,9 @@ h1, h2, h3, h4, h5, h6, h7, h8, p {
 
 </div>
 
+<br>
 
 **Email to join on GitHub** (free to sign up):
 
 - Brad Duthie: **< alexander.duthie@stir.ac.uk >** 
 - Anna Deasey: **< a.l.deasey@stir.ac.uk >**
-
