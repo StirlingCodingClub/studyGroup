@@ -22,6 +22,7 @@ eventPlaceholder: Nothing yet! Propose an event here.
 suggestEvent: Suggest an Event
 leadership: How to lead a Study Group session
 pastEvents: See Our Past Events
+subscribe: Subscribe for Event Reminders
 
 notification: Want to be notified of our upcoming events?
 watching: 'Head over to <a href="https://github.com/StirlingCodingClub/studyGroup">GitHub</a> and watch our repository, like this:'
