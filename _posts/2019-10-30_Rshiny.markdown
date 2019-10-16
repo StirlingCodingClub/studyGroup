@@ -1,0 +1,8 @@
+---
+date: 2019-10-30
+title: Using R shiny
+text: How to write apps and slides using R Shiny
+location: Room 3A146, Cottrell Buildling, University of Stirling
+startTime: '12:00'
+endTime: '13:00'
+---

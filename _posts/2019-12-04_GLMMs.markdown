@@ -1,0 +1,8 @@
+---
+date: 2019-12-04
+title: GLMMs
+text: Predicting Generalised Linear Mixed Models (GLMMs)
+location: Room 3A146, Cottrell Buildling, University of Stirling
+startTime: '12:00'
+endTime: '13:00'
+---

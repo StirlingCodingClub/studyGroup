@@ -1,0 +1,8 @@
+---
+date: 2019-12-11
+title: Individual-based models
+text: How to develop individual-based models
+location: Room 3A146, Cottrell Buildling, University of Stirling
+startTime: '12:00'
+endTime: '13:00'
+---
