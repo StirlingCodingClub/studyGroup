@@ -1,5 +1,5 @@
 ---
-date: 2019-10-31
+date: 2018-10-31
 title: Manuscipts in Rmarkdown
 text: An introduction to Rmarkdown, and how to use it to write more efficiently
 location: Room 4U5, Cottrell Buildling, University of Stirling
