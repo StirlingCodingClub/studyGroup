@@ -1,5 +1,5 @@
 ---
-date: 2019-11-09
+date: 2019-09-11
 title: Introduction to SCC and GitHub
 text: An introduction to Stirling Coding Club, using GitHub to interact and ask coding questions, and topics of interest to get started.
 location: Room 3A146, Cottrell Buildling, University of Stirling
